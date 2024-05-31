@@ -1,16 +1,9 @@
-# shieldify
+Install the flutter sdk and add dart to path
 
-A new Flutter project.
+Install git
 
-## Getting Started
+Install and download a code editor
 
-This project is a starting point for a Flutter application.
+Clone Repository to have access
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Betterstill, use this link https://drive.google.com/file/d/183NxxQM3ZW6vrixLLFuMj1UyjyVnB1O9/view to install Shieldify
